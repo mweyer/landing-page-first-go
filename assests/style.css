@@ -1,0 +1,65 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+main, footer {
+    text-align: center;
+
+}
+
+header {
+    background-color: cornflowerblue;
+    text-align: right;
+    font-size: 20px;
+    height: 60px;
+    border-bottom: 10px solid blueviolet;
+}
+
+section {
+    background-color: darkblue;
+    border-top: 10px solid tan;
+}
+
+footer {
+    background-color: cornflowerblue;
+    border-bottom: 10px solid yellow;
+}
+
+
+a, li {
+    display: inline-block;
+    padding: 10px 20px 0 20px;
+}
+
+h1, h2, img, figcaption {
+    padding: 20px 0;
+}
+
+input {
+    margin: 0 0 10px 0;
+}
+
+form {
+    border: 5px solid gold;
+    border-radius: 15px;
+    margin: 0 475px;
+    padding: 10px;
+}
+
+button {
+    margin: 0 0 10px 0;
+    background-color: red;
+    color: seagreen;
+    font-weight: bold;
+    width: 80px;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:visited{
+    color: springgreen;
+}
